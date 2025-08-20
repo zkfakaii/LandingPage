@@ -1,0 +1,9 @@
+.header h1 {
+margin: 0px;
+
+height: 20em;
+background-image: ("assets/imgs/fondo.jpg");
+background-size: cover;
+background-position: center;
+}
+
