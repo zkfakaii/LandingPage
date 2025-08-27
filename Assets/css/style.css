@@ -11,7 +11,8 @@ background-size: cover;
 background-position: center;
 }
 .header h1 {
-margin: 0px;
+
+margin: 20px;
 font-weight: 400;
 }
 .products {
